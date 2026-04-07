@@ -84,6 +84,9 @@
   "chat": {
     "respond": true
   }
-}
-custom-join-message: ""
+{
+  custom-join-message: ""
 custom-quit-message: ""
+}
+}
+
