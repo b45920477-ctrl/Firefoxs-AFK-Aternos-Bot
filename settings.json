@@ -83,10 +83,11 @@
   },
   "chat": {
     "respond": true
-  }
+  },
 {
-  custom-join-message: ""
-custom-quit-message: ""
+  "custom-join-message": ""
+}
+  "custom-quit-message": ""
 }
 }
 
